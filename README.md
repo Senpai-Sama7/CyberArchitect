@@ -1,7 +1,8 @@
-https://github.com/Senpai-Sama7/ultimate-website-replicator/blob/main/README.md
 
 
-Ultimate Website Replication Suite v7.0 - The Professional Grade Edition
+# Ultimate Website Replication Suite v7.0 - The Professional Grade Edition
+
+
 
 ![alt text](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
 
@@ -11,7 +12,9 @@ Ultimate Website Replication Suite v7.0 - The Professional Grade Edition
 
 ![alt text](https://img.shields.io/badge/powered%20by-Puppeteer-blue.svg)
 
+---
 A robust, high-performance, and intelligent Node.js tool for comprehensive website replication, archiving, and analysis. This suite is engineered for resilience, efficiency, and respectful crawling of modern web applications.
+---
 
 ✨ Key Features
 
