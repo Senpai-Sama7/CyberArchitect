@@ -1,6 +1,8 @@
 
 
-# Ultimate Website Replication Suite v7.0 - The Professional Grade Edition
+# CyberArchitect 
+
+## THe Ultimate Website Replication Suite - The Professional Grade Edition
 
 
 
