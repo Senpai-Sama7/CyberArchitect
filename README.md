@@ -75,7 +75,7 @@ Prerequisites: Ensure you have Node.js (version 18.0.0 or higher recommended for
 Clone the Repository:
 
 Generated bash
-git clone https://github.com/Senpai-sama7/ultimate-website-replicator.git
+git clone https://github.com/Senpai-sama7/CyberArchitect.git
 cd ultimate-website-replicator
 
 
